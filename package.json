@@ -1,6 +1,6 @@
 {
-  "name": "@yetzt/linvodb3",
-  "version": "3.25.4",
+  "name": "@yetzt/linvodb",
+  "version": "3.25.5",
   "author": {
     "name": "Ivo Georgiev",
     "email": "ivo@linvo.com"
@@ -17,10 +17,10 @@
     "levelup",
     "mongoose"
   ],
-  "homepage": "https://github.com/Ivshti/linvodb3",
+  "homepage": "https://github.com/yetzt/forked-linvodb3",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Ivshti/linvodb3.git"
+    "url": "git@github.com:yetzt/forked-linvodb3.git"
   },
   "dependencies": {
     "@yetzt/bagpipe": "^0",
